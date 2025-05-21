@@ -7,23 +7,8 @@ Comparison of model performance using RMSE and other metrics
 Clean, LinkedIn-optimized visualizations that stand out in the feed
 Code that's easy to customize for your own data and forecasting needs
 
-Usage
-Prerequisites
-bashpip install numpy pandas matplotlib statsmodels tensorflow
-Running the code
 
-Clone this repository:
 
-bashgit clone https://github.com/yourusername/linkedin-data-science-posts.git
-cd linkedin-data-science-posts
-
-Run the code in your environment or Google Colab:
-
-pythonpython exponential_smoothing.py
-# OR
-python arima_vs_lstm.py
-
-The code will generate:
 
 An animated GIF showing the model comparison
 A static image of the final result
@@ -57,6 +42,9 @@ Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
 Acknowledgments
 
 Inspiration from top data science content creators on LinkedIn
